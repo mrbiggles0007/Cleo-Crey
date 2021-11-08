@@ -49,10 +49,9 @@ sections:
       - title: The Divorce
         image: /images/feature3-cdaa95ec.png
         image_alt: Divorce Phase Cleo Randall
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          This video details how the divorce came about and the effects it had.
+          My view on how men and women handle these things.
         actions:
           - label: Learn More
             url: >-
