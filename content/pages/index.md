@@ -24,7 +24,7 @@ sections:
       & I made this site to help focus on recovering from the pain involved. I
       will be using videos to cover my story.
     features:
-      - title: Awesome Feature of Your Services
+      - title: Being Cheated On
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
