@@ -27,10 +27,18 @@ sections:
       - title: Being Cheated On
         image: /images/feature2-99ced7be.png
         image_alt: Cleo Crey admissions
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          It is hard to admit as a man to being cheated on. When someone who you
+          share your life with betrays you in this way, the heartbreak is unlike
+          anything else I have experienced. The video below details when it
+          happened & how I worked through it. The two worst parts for me were
+          that Cleo my wife at the time had taken the time to develop a code
+          with him so that if I looked at her phone, I would not be suspicious.
+
+
+          The second was not only having something so horrendous happen but then
+          be blamed for causing it because I did not give her enough attention.
+          Not even the integrity to take accountability for the actions.
         actions:
           - label: Learn More
             url: /features
