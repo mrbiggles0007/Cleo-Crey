@@ -80,7 +80,7 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
       - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
+        avatar: /images/healing-1610555-1366333.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
