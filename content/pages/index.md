@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/hero-4229e16d.png
     image_alt: App preview
     title: My Journey Out Of Hell
     content: >
