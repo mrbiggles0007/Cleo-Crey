@@ -65,13 +65,7 @@ sections:
     background: white
     title: Moving On From Divorce
     subtitle: Details the events after the divorce and how I worked towards healing.
-    reviews:
-      - author: Eric Widget
-        avatar: /images/6823160.png
-        avatar_alt: Eric Widget's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    reviews: []
   - section_id: recent-posts
     type: section_posts
     background: gray
