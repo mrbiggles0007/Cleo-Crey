@@ -55,7 +55,8 @@ sections:
           amet nec urna.
         actions:
           - label: Learn More
-            url: /features
+            url: >-
+              https://www.youtube.com/watch?v=8hZ0Wo8PqB4&list=PLIfqSGqxgjyGM69eVxiiXhwgtF935E0E1&index=2
             style: secondary
             has_icon: true
             icon: arrow-right
