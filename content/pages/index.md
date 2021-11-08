@@ -22,8 +22,10 @@ sections:
     background: gray
     title: Background On How I Got Here
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      I fell in love when I was 26 with a girl named Chloe & married her before
+      divorcing 7 Years ago now and becoming close friends. The friendship ended
+      & I made this site to help focus on recovering from the pain involved. I
+      will be using videos to cover my story.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
