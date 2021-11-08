@@ -67,7 +67,7 @@ sections:
     subtitle: Details the events after the divorce and how I worked towards healing.
     reviews:
       - author: Eric Widget
-        avatar: images/review1.jpg
+        avatar: /images/6823160.png
         avatar_alt: Eric Widget's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
