@@ -92,7 +92,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Marriage Breakup
+  title: Marriage Breakup & My Road Back
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
