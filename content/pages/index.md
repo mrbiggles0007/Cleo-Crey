@@ -26,7 +26,7 @@ sections:
     features:
       - title: Being Cheated On
         image: /images/feature2-99ced7be.png
-        image_alt: App users welcoming a new member
+        image_alt: Finding out Cleo Crey cheated on me
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
