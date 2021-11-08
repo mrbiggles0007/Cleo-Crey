@@ -74,7 +74,9 @@ seo:
       value: Realities of Divorce and how to overcome the pain.
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Living in Adelaide & my experience with divorce and the resulting one
+        way friendship afterwards. 
       keyName: property
     - name: 'og:image'
       value: /images/hero-2917c927.png
