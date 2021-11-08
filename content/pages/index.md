@@ -41,7 +41,7 @@ sections:
           Not even the integrity to take accountability for the actions.
         actions:
           - label: Learn More
-            url: /features
+            url: 'https://www.youtube.com/watch?v=IyKEhj_fkb4'
             style: secondary
             has_icon: true
             icon: arrow-right
