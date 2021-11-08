@@ -48,7 +48,7 @@ sections:
             icon_position: right
       - title: Cool Feature of Your Services
         image: /images/feature3-cdaa95ec.png
-        image_alt: App user profile preview
+        image_alt: 'Divorce '
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
