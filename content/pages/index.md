@@ -60,10 +60,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 seo:
   title: Marriage Breakup & My Road Back
   description: >-
