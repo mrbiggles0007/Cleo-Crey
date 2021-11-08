@@ -71,7 +71,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Realities of Divorce and how to overcome the pain.
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
