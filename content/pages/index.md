@@ -64,9 +64,7 @@ sections:
     type: section_reviews
     background: white
     title: Moving On From Divorce
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Details the events after the divorce and how I worked towards healing.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
