@@ -93,7 +93,10 @@ sections:
     title: Latest Posts
 seo:
   title: Marriage Breakup & My Road Back
-  description: The preview of the Azimuth theme
+  description: >-
+    This is the journey of self improvement after a one way friendship to my ex
+    wife. I was engaged then married to Cleo for 17 years and was her friend for
+    7 years.
   extra:
     - name: 'og:type'
       value: website
