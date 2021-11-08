@@ -24,7 +24,7 @@ sections:
       & I made this site to help focus on recovering from the pain involved. I
       will be using videos to cover my story.
     features:
-      - title: The Best Feature of Your Services
+      - title: Overview
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
