@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: /images/hero-4229e16d.png
-    image_alt: 'Cleo Crey '
+    image_alt: Cleo Crey Halls Gap
     title: My Journey Out Of Hell
     content: >
       This is my journey of progress from the relationship that led me to this
