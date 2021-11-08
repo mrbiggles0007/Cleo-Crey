@@ -24,19 +24,6 @@ sections:
       & I made this site to help focus on recovering from the pain involved. I
       will be using videos to cover my story.
     features:
-      - title: Overview
-        image: images/feature1.png
-        image_alt: App preview on a phone and tablet
-        content: >
-          This is the first video where I explain the background of how I ended
-          up here. This all took place in Adelaide, South Australia.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
