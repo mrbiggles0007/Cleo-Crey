@@ -46,7 +46,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: The Divorce
         image: /images/feature3-cdaa95ec.png
         image_alt: Divorce Phase Cleo Randall
         content: >-
