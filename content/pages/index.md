@@ -6,9 +6,13 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: My Journey Out Of Hell
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      This is my journey of progress from the relationship that led me to this
+      point & my decision to make a change and get my life back on track.
+
+
+      This will be undertaken with either weekly or if there is nothing to
+      report, monthly videos of my experience on getting my life back.
     actions:
       - label: Learn More
         url: /features
