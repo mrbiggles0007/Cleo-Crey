@@ -60,12 +60,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    title: Moving On From Divorce
-    subtitle: Details the events after the divorce and how I worked towards healing.
-    reviews: []
   - section_id: recent-posts
     type: section_posts
     background: gray
