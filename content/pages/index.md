@@ -27,10 +27,9 @@ sections:
       - title: Overview
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          This is the first video where I explain the background of how I ended
+          up here. This all took place in Adelaide, South Australia.
         actions:
           - label: Learn More
             url: /features
