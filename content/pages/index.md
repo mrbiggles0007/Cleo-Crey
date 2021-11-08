@@ -13,10 +13,7 @@ sections:
 
       This will be undertaken with either weekly or if there is nothing to
       report, monthly videos of my experience on getting my life back.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
