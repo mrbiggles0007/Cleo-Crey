@@ -26,7 +26,7 @@ sections:
     features:
       - title: Being Cheated On
         image: /images/feature2-99ced7be.png
-        image_alt: 'Cleo Crey '
+        image_alt: Cleo Crey cheats then breaks up
         content: >
           It is hard to admit as a man to being cheated on. When someone who you
           share your life with betrays you in this way, the heartbreak is unlike
